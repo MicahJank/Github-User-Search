@@ -20,7 +20,7 @@ const TopBar = () => {
     const classes = useStyles();
     return (
         <Box className={classes.box} display='flex' justifyContent='center'>
-            <h1 className={classes.title}>GitHub UserCards</h1>
+            <h1 className={classes.title}>GitHub User Search</h1>
         </Box>
     );
 }
